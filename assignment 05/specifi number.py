@@ -1,7 +1,7 @@
 number = int(input("enter youre number:\n"))
 number = str(abs(number))
-choose_odd = "13579"
-choose_even = "02468"
+# choose_odd = "13579"
+# choose_even = "02468"
 odd = 0
 even = 0
 
