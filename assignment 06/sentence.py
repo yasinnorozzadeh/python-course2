@@ -1,0 +1,7 @@
+sentence = input("enter youre sentence:\n")
+unsort1 = str(sorted(sentence, reverse=True))
+unsort2 = tuple(sorted(sentence, reverse=True))
+print(unsort1)
+print(unsort2)
+print("*".join(unsort1))
+print("*".join(unsort2))
