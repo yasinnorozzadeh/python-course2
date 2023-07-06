@@ -1,0 +1,12 @@
+scores = ["20", "19.92", "19.36", "19.14", "19.17", "19.95", "19.70", "20", "18"]
+print(scores.clear())
+print(scores.remover("20"))
+del(scores)
+print(scores.pop(2))
+print(scores.pop())
+scores.extend()
+scores.sort()
+scores.reverse()
+sum(scores)
+min(scores)
+max(scores)
