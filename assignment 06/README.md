@@ -8,5 +8,5 @@
 ![Show](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/97b5d149-36e8-454f-a5a6-b11fa61a4bbc)
 
 #  sentence
-![Uploading Screenshot from 2023-07-08 15-52-35.png…]()
+![Screenshot from 2023-07-08 15-52-35](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/9c81467a-53c7-4e9e-adc7-6f48f8be3e50)
 
