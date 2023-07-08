@@ -1,5 +1,7 @@
 # queuing up 
-![Screenshot from 2023-07-08 15-13-48](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/ba1dc7d3-0afc-4b22-89ec-962e705038af)
+![Screenshot 2023-07-08 153125](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/06994630-cf1c-4476-8324-4733cfce429c)
+
+
 
 # remove ithem from list
 ![remove](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/59b4ae23-24c0-4684-bbe8-3dbf6484e9e0)
