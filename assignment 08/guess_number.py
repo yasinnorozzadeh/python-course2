@@ -34,7 +34,7 @@ while True:
                 print("player1 go up!")
 
     elif start_game == 3:
-        number = int(input("player1: enter youre number:(range = 0 to 100\t "))
+        number = int(input("player1: enter youre number:(range = 0 to 100)\t"))
         upperـbound = 100
         lowerـbound = 0
         input_number = random.randint(lowerـbound, upperـbound)
@@ -46,11 +46,11 @@ while True:
             elif input_number > number:
                 print(f"computer number is:{input_number}", "go down!")
                 upperـbound = input_number
-                input_number = random.randint(lowerـbound, upperـbound)
+                input_number = random.randint(lowerـbound, upperـbound-1)
             else:
                 print(f"computer number is:{input_number}", "go up!")
                 lowerـbound = input_number
-                input_number = random.randint(lowerـbound, upperـbound)
+                input_number = random.randint(lowerـbound + 1, upperـbound)
 
 
     elif start_game == 4:
