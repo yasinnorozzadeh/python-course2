@@ -43,7 +43,7 @@ while trry:
                     text = fontstyle.apply("computer is win for this round", 'bold/Italic/red/GREEN_BG')
                     print(text)
                 else:
-                    text = fontstyle.apply("drow", 'bold/Italic/red/GREEN_BG')
+                    text = fontstyle.apply("equal", 'bold/Italic/red/GREEN_BG')
                     print(text)
                 if score_user == heighest_score:
                     winer = "user"
@@ -84,7 +84,7 @@ while trry:
                     text = fontstyle.apply("player2 is win for this round", 'bold/Italic/red/GREEN_BG')
                     print(text)
                 elif user2_choice == "rock" and user1_choice == "rock" or user2_choice == "scissors" and user1_choice == "scissors" or user2_choice == "paper" and user1_choice == "paper":
-                    text = fontstyle.apply("drow", 'bold/Italic/red/GREEN_BG')
+                    text = fontstyle.apply("equal", 'bold/Italic/red/GREEN_BG')
                     print(text)
             if score_user1 == heighest_score:
                 winer = "player 1"
