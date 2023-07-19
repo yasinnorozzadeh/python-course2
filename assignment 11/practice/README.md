@@ -1,7 +1,7 @@
 # LCM
 ![Screenshot from 2023-07-20 00-49-54](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/bb629bb4-373e-4671-8512-ee7b44a4e8ea)
 
-# GCD
+# gcd
 ![Screenshot from 2023-07-20 00-52-18](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/457ace00-b047-4cee-b4dc-988f1ea10de9)
 
 # isprime function
@@ -27,3 +27,4 @@
 ![Screenshot from 2023-07-20 01-07-54](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/7b6af0e2-7146-42ab-9083-94ee14f08e8b)
 
 ## GCD
+![Screenshot from 2023-07-20 01-42-59](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/60739d31-7344-4133-8007-39cf79fc5315)
