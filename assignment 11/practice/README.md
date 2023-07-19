@@ -18,3 +18,12 @@
 
 # hangman_functional
 ![Screenshot from 2023-07-20 00-51-08](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/a3bd9031-6d66-4216-9952-7acbd9123db8)
+
+# recursive functions
+## fibonacci
+![Screenshot from 2023-07-20 01-06-05](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/867afd84-4adf-4abe-9438-033d2452a627)
+
+## factorial
+![Screenshot from 2023-07-20 01-07-54](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/7b6af0e2-7146-42ab-9083-94ee14f08e8b)
+
+## GCD
