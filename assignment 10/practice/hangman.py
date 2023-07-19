@@ -1,5 +1,4 @@
 import random
-from tkinter import W
 import pyfiglet
 
 Animals_easy = ["cat", "dog", "cow", "pig", "fly", "eik", "fox", "bat", "ant", "bee"]
