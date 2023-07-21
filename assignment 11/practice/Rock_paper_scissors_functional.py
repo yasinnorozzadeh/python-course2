@@ -1,100 +1,93 @@
 import random
+import fontstyle
 import pyfiglet
 from termcolor import colored
-import fontstyle
 
-
+def choose_user(number):
+    if number == 1:
+        number = rps[0]
+    elif number == 2:
+        number = rps[1]
+    elif number == 3:
+        number = rps[2]
+    else:
+        number = "youre number is out of range(1 to 3)\npelease try again!"
+    return number
+def check_game(user, user2, number):
+    if (user == "rock" and user2 == "scissors") or (user == "scissors" and user2 == "paper" ) or (user == "paper" and user2 == "rock"):
+        if number == 1:
+            win = "player"
+        else:
+            win = "player1"
+    elif (user2 == "rock" and user == "scissors") or (user2 == "scissors" and user == "paper") or (user2 == "paper" and user == "rock"):
+        if number == 1:
+            win = "computer"
+        else:
+            win = "player2"
+    elif user == user2:
+        win = 0
+    return win
+def check_winer(user_score, heighest_score, user_name):
+    if user_score == heighest_score:
+        winer = user_name
+    else:
+        winer = ""
+    return winer
 rps = ["rock", "paper", "scissors"]
-trry = True
-check = False
-
-def player_2_computer():
-    score_user = 0
-    score_computer = 0
-    user_choice = int(input("1_rock\n2_paper\n3_scissors\nenter number of your choice: "))
-    computer_choice = random.choice(rps)
-    if 1 <= user_choice <= 3:
-        if user_choice == 1:
-            user_choice = rps[0]
-        elif user_choice == 2:
-            user_choice = rps[1]
-        else:
-            user_choice = rps[2]
-        check = True
-    else:
-        print("youre number is out of range(1 to 3)\npelease try again!")
-        check = False
-    if check == True:
-        if user_choice == "rock" and computer_choice == "scissors" or user_choice == "scissors" and computer_choice == "paper"  or user_choice == "paper" and computer_choice == "rock":
-            score_user += 1
-            text = fontstyle.apply("user is win for this round", 'bold/Italic/red/GREEN_BG')
-            print(text)
-        elif computer_choice == "rock" and user_choice == "scissors" or computer_choice == "scissors" and user_choice == "paper" or computer_choice == "paper" and user_choice == "rock":
-            score_computer += 1
-            text = fontstyle.apply("computer is win for this round", 'bold/Italic/red/GREEN_BG')
-            print(text)
-        else:
-            text = fontstyle.apply("equal", 'bold/Italic/red/GREEN_BG')
-            print(text)
-
-
-def player_2_player():
-    score_user1 = 0
-    score_user2 = 0
-    user1_choice = int(input("player1\n1_rock\n2_paper\n3_scissors\nenter number of your choice: "))
-    user2_choice = int(input("player2\n1_rock\n2_paper\n3_scissors\nenter number of your choice: "))
-    if 1 <= user1_choice <= 3 and 1 <= user2_choice <= 3:
-        if user1_choice == 1:
-            user1_choice = rps[0]
-        elif user1_choice == 2:
-            user1_choice = rps[1]
-        elif user1_choice == 3:
-            user1_choice = rps[2]
-
-        if user2_choice == 1:
-            user2_choice = rps[0]
-        elif user2_choice == 2:
-            user2_choice = rps[1]
-        elif user2_choice == 3:
-            user2_choice = rps[2]
-        check = True
-    else:
-        print("youre number is out of range(1 to 3)\npelease try again!")
-        check = False
-
-    if check == True:
-        if (user1_choice == "rock" and user2_choice == "scissors") or (user1_choice == "scissors" and user2_choice == "paper")  or (user1_choice == "paper" and user2_choice == "rock"):
-            score_user1 += 1
-            text = fontstyle.apply("player1 is win for this round", 'bold/Italic/red/GREEN_BG')
-            print(text)
-        elif (user2_choice == "rock" and user1_choice == "scissors") or (user2_choice == "scissors" and user1_choice == "paper") or (user2_choice == "paper" and user1_choice == "rock"):
-            score_user2 += 2
-            text = fontstyle.apply("player2 is win for this round", 'bold/Italic/red/GREEN_BG')
-            print(text)
-        elif user2_choice == "rock" and user1_choice == "rock" or user2_choice == "scissors" and user1_choice == "scissors" or user2_choice == "paper" and user1_choice == "paper":
-            text = fontstyle.apply("equal", 'bold/Italic/red/GREEN_BG')
-            print(text)
-
-
 result1 = colored(pyfiglet.figlet_format(('Welcome to rock paper scissors Game '), font = "digital"), "green")
 print(result1)
-while trry:
+while True:
     user = int(input("1_player vs computer\n2_player vs player\nenter number of your choice: "))
-    if user == 1 or user == 2:
-        heighest_score = 1
-        while user == 1 and (heighest_score == 1 or heighest_score == 3 or heighest_score == 5):
-            player_2_computer()
-            break
-        while user == 2 and (heighest_score == 1 or heighest_score == 3 or heighest_score == 5):
-            player_2_player()
-            break
+    heighest_score = int(input("enter the highest score from (1, 3, 5): "))
+    if user == 1:
+        player = 0
+        computer = 0
+        while True:
+            user_choice = int(input("1_rock\n2_paper\n3_scissors\nenter number of your choice: "))
+            computer_choice = random.choice(rps)
+            user = choose_user(user_choice)
+            if not(user == "youre number is out of range(1 to 3)\npelease try again!"):
+                print("palyer:", user, "computer:", computer_choice)
+                winer_r = check_game(user, computer_choice, 1)
+                if winer_r == 0:
+                    text = fontstyle.apply("equal", 'bold/Italic/red/GREEN_BG')
+                    print(text)
+                else:
+                    locals()[winer_r] += 1
+                    winer_all = check_winer(locals()[winer_r], heighest_score, winer_r)
+                    text = fontstyle.apply(f"{winer_r} is win for this round", 'bold/Italic/red/GREEN_BG')
+                    print(text)
+                    if not(winer_all == ""):
+                        text = fontstyle.apply(f"{winer_all} is winer", 'bold/Italic/red/GREEN_BG')
+                        print(text)
+                        break
+    elif user == 2:
+        player1 = 0
+        player2 = 0
+        while  True:
+            user1_choice = int(input("player1\n1_rock\n2_paper\n3_scissors\nenter number of your choice: "))
+            user2_choice = int(input("player2\n1_rock\n2_paper\n3_scissors\nenter number of your choice: "))
+            user1 = choose_user(user1_choice)
+            user2 = choose_user(user2_choice)
+            if not(user == "youre number is out of range(1 to 3)\npelease try again!"):
+                print("palyer1:", user1, "palyer2:", user2)
+                winer_r = check_game(user1, user2, 2)
+                if winer_r == 0:
+                    text = fontstyle.apply("equal", 'bold/Italic/red/GREEN_BG')
+                    print(text)
+                else:
+                    locals()[winer_r] += 1
+                    winer_all = check_winer(locals()[winer_r], heighest_score, winer_r)
+                    text = fontstyle.apply(f"{winer_r} is win for this round", 'bold/Italic/red/GREEN_BG')
+                    print(text)
+                    if not(winer_all == ""):
+                        text = fontstyle.apply(f"{winer_all} is winer", 'bold/Italic/red/GREEN_BG')
+                        print(text)
+                        break
     else:
-        print("your chosen number is not found")
-    try_again = input("do you want to play again?(y, n)")
-    if try_again == "y":
-        trry = True
-    else: 
-        trry = False
-
+        print("your number is out off range!")
+    try_again = input("do you want to try again??(y, n)")
+    if not(try_again == "y"):
+        break
 result = colored(pyfiglet.figlet_format('Good Bye! '), 'green')
 print(result)
