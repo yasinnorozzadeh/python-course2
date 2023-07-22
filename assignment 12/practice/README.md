@@ -1,7 +1,7 @@
 # assignment 12 [*_readme_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/README.md)
 ***
 ## [*_Diamond_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/diamond.py)
-![dimond](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/d4b23063-f1fa-4035-bc9b-05f9c2e3ff8e)
+![Screenshot 2023-07-22 203858](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/8e094df8-34c9-4018-bc52-33e91776b07e)
 ***
 ## [_Multiplication Table_](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/Multiplication%20table.py)
 ![multable](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/9918ee6c-8d13-45d7-ab2f-d497eba956e1)
