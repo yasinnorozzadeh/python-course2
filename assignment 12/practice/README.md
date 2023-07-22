@@ -14,4 +14,5 @@
 ***
 ## [*_Vowels_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/Vowels.py)
 ![vowel](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/528e148e-e87e-4831-91b4-757cb9014fb7)
-
+## [_Tic Tac Toe_](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/tic_tac_toe.py)
+![ox](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/afd03727-7938-4c48-af23-5b728f5d58d9)
