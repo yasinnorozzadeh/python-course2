@@ -1,4 +1,5 @@
 # assignment 12 [*_readme_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/README.md)
+***
 ## [**Diamond**](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/diamond.py)
 ![dimond](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/d4b23063-f1fa-4035-bc9b-05f9c2e3ff8e)
 ***
