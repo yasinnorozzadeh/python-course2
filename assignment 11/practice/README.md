@@ -1,6 +1,7 @@
 # LCM
+=====
 ![Screenshot from 2023-07-20 00-49-54](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/bb629bb4-373e-4671-8512-ee7b44a4e8ea)
-==============================================================================================================================================
+
 # gcd
 ![Screenshot from 2023-07-20 00-52-18](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/457ace00-b047-4cee-b4dc-988f1ea10de9)
 
