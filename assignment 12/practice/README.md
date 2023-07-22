@@ -17,4 +17,5 @@
 ***
 ## [_Tic Tac Toe_](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/tic_tac_toe.py)
 ![ox](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/afd03727-7938-4c48-af23-5b728f5d58d9)
-- {+ assignment 12 +}
+
+- {+ addition 1 +}
