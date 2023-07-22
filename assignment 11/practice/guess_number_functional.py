@@ -1,76 +1,50 @@
 import random
-def player1_2_player2():
-    number = int(input("player1: enter youre number:(range = 0 to 100)\t"))
-    while True:
-        input_number = int(input("player2: enter youre number:(range = 0 to 100)\t"))
-        if input_number == number :
-            print("you win!")
-            break
-        elif input_number > number:
-            print("player2 go down!")
-        else:
-            print("player2 go up!")
-
-def player2_2_player1():
-    number = int(input("player2: enter youre number:(range = 0 to 100)\t"))
-    while True:
-        input_number = int(input("player1: enter youre number:(range = 0 to 100)\t"))
-        if input_number == number :
-            print("you win!")
-            break
-        elif input_number > number:
-            print("player1 go down!")
-        else:
-            print("player1 go up!")
-   
-def player_2_computer():
-    number = int(input("player1: enter youre number:(range = 0 to 100)\t"))
-    upperـbound = 100
-    lowerـbound = 0
-    input_number = random.randint(lowerـbound, upperـbound)
-    while True:
-        if input_number == number :
-            print(f"computer number is:{input_number}", "computer win!")
-            break
-        elif input_number > number:
-            print(f"computer number is:{input_number}", "go down!")
-            upperـbound = input_number
-            input_number = random.randint(lowerـbound, upperـbound-1)
-        else:
-            print(f"computer number is:{input_number}", "go up!")
-            lowerـbound = input_number
-            input_number = random.randint(lowerـbound + 1, upperـbound)
-
-def computer_2_player():
-    number = random.randint(0, 100)
-    while True:
-        input_number = int(input("enter youre number:\t"))
-        if input_number == number :
-            print("you win!")
-            break
-        elif input_number > number:
-            print("go down!")
-        else:
-            print("go up!")
-
-def check(start_game):
-    if start_game == 1:
-        player1_2_player2()
-        
-    elif start_game == 2:
-        player2_2_player1()
-
-    elif start_game == 3:
-        player_2_computer()
-
-    elif start_game == 4:
-        computer_2_player()
+def check_number(number, number_input, player):
+    if number_input == number :
+        return f"{player} is win!"
+    elif number_input > number:
+        return f"{player} go down!"
     else:
-        print("youre number doesnt find")
-
+        return f"{player} go up!"
+def game(number):
+    if number == 1 or number == 2 or number == 4:
+        if number == 4:
+            numberr = random.randint(0, 100)
+        else:
+            numberr = int(input(f"player{number}: enter youre number:(range = 0 to 100)\t"))
+        if number == 4 or number == 2:
+            number == 1
+        else:
+            number += 1
+        while True:
+            input_number = int(input(f"player{number}: enter youre number:(range = 0 to 100)\t"))
+            print(check_number(numberr, input_number, f"player{number}"))
+            if "win" in check_number(numberr, input_number, f"player{number}"):
+                break
+    elif number == 3:
+        numberr = int(input("player1: enter youre number:(range = 0 to 100)\t"))
+        upperـbound = 100
+        lowerـbound = 0
+        input_number = random.randint(lowerـbound, upperـbound)
+        while True:
+            check = check_number(numberr, input_number, "computer")
+            if "win" in check :
+                print(check)
+                break
+            elif "down" in check:
+                print(f"computer number is:{input_number}", check)
+                upperـbound = input_number
+                input_number = random.randint(lowerـbound, upperـbound-1)
+            elif "up" in check:
+                print(f"computer number is:{input_number}", check)
+                lowerـbound = input_number
+                input_number = random.randint(lowerـbound + 1, upperـbound)
+    else:
+        print("youre number doesnt find") 
 while True:
     start_game = int(input("1_player1 vs player2\n2_player2 vs player1\n3_player vs computer\n4_computer vs player\n\tenter youre number: "))
-    check(start_game)
+    game(start_game)
     try_again = input("do you want to try again?(y, n):\t") # try again
     if try_again == "n":
         break
+print("good bye!")
