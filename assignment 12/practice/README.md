@@ -1,6 +1,6 @@
 # assignment 12 [*_readme_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/README.md)
 ***
-## [*_{+ Diamond +}_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/diamond.py)
+## [*_Diamond_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/diamond.py)
 ![dimond](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/d4b23063-f1fa-4035-bc9b-05f9c2e3ff8e)
 ***
 ## [_Multiplication Table_](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/Multiplication%20table.py)
@@ -17,3 +17,4 @@
 ***
 ## [_Tic Tac Toe_](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/tic_tac_toe.py)
 ![ox](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/afd03727-7938-4c48-af23-5b728f5d58d9)
+{+ assignment 12 +}
