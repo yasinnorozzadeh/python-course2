@@ -29,10 +29,10 @@ elif op == 2:
     mins = time1_dict["minut"] + time2_dict["minut"]
     hours = time1_dict["hour"] + time2_dict["hour"]
     while not(0 <= seconds <= 60 and 0 <= mins <= 60):
-        if seconds >= 60:
+        if seconds > 60:
             seconds -= ((seconds // 60) * 60)
             mins += (seconds // 60)
-        if mins >= 60:
+        if mins > 60:
             mins -= ((mins // 60) * 60)
             hours += (mins // 60)
     print(str(hours) + ":" + str(mins)  + ":" + str(seconds))
