@@ -1,4 +1,4 @@
-  op = int(input("1_sum\n2_sub\n3_mul\n4_div\nenter number of operation: "))
+op = int(input("1_sum\n2_sub\n3_mul\n4_div\nenter number of operation: "))
 def number(numerator, denumerator):
     d = {"num": numerator, "dnum": denumerator}
     return d
@@ -12,7 +12,6 @@ def sub(d1, d2):
     result_dnum = d1['dnum'] * d2['dnum']
     return result_num , result_dnum
 def sum(d1, d2):
-    print(d1 , "\n" , d2)
     result_num = (d1["num"] * d2['dnum']) + (d2["num"] * d1['dnum'])
     result_dnum = d1['dnum'] * d2['dnum']
     return result_num , result_dnum
