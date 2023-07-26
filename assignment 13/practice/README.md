@@ -6,3 +6,5 @@
 ![Screenshot 2023-07-24 150710](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/8255bbcf-193e-432f-a7dd-2287c8ee55ac)
 # deduction
 ![Screenshot 2023-07-25 055831](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/a037bdb4-01ed-4235-902a-dc48be3db211)
+# complex numbers
+![Screenshot 2023-07-25 055831](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/62b877ef-4ed0-4266-b147-5b4dd3e5b6e6)
