@@ -4,6 +4,7 @@
 ![Screenshot 2023-07-25 055831](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/862f2141-f899-4fa7-81b3-d26ffa92b8b7)
 # time
 ![Screenshot 2023-07-24 150710](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/8255bbcf-193e-432f-a7dd-2287c8ee55ac)
+![Screenshot 2023-08-01 163054](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/d115ab70-24f5-420d-87ff-e1ad1dfbc483)
 # deduction
 ![Screenshot 2023-07-25 055831](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/a037bdb4-01ed-4235-902a-dc48be3db211)
 # complex numbers
