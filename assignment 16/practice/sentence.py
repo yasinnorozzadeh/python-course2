@@ -11,5 +11,6 @@ elif list_str[0] == len(s2):
     tts = gtts.gTTS(s2)
 else:
     tts = gtts.gTTS(s3)
-tts.save("voice.mp3")
-playsound('voice.mp3')
+name = input("enter file name: ")
+tts.save(f"{name}.mp3")
+playsound(f'{name}.mp3')
