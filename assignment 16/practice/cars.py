@@ -22,7 +22,7 @@ def japan_cars(cars):
     for i in range(len(cars)):
         if cars[i][8] == "Japan":
             japancars.append(cars[i])
-    print(japancars)
+    print(show(japancars))
     return japancars
 # japan_cars(cars)
 # show(japancars)
@@ -33,7 +33,7 @@ def longe_name(cars):
         if len(cars[i][0]) > c:
             heighestname = tuple(cars[i])
             c = len(cars[i][0])
-    print(heighestname)
+    print(show(heighestname))
     return heighestname
 # longe_name(cars)
 
@@ -43,7 +43,7 @@ def small_name(cars):
         if len(cars[i][0]) < c:
             shortestname = tuple(cars[i])
             c = len(cars[i][0])
-    print(shortestname)
+    print(show(shortestname))
     return shortestname
 # small_name(cars)
 
@@ -72,7 +72,7 @@ def Light_cars(cars):
             if float(cars[j][5]) == weights[i]:
                 x = cars[j][0], weights[i]
                 names.append(x)
-    print(names)
+    print(show(names))
     return(names)
 # Light_cars(cars)
 
