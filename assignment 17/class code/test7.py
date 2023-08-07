@@ -5,7 +5,7 @@ connect = sqlite3.connect("mydata.db")
 c = connect.cursor()
 
 # c.execute("SELECT * FROM customers")
-c.execute("SELECT * FROM customers ORDER BY DECD")
+c.execute("SELECT * FROM customers ORDER BY DESC")
 
 item = c.fetchall()
 
