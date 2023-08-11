@@ -7,9 +7,12 @@
 # <img src="https://github.com/yasinnorozzadeh/python-course2/assets/88095232/c4397c04-cb2d-4f05-ba09-815287c76c4c" width="50" height="50"/> [***XML_important_commands***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2016/practice/food.py)
 ![Screenshot 2023-08-11 164307](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/77ef2221-211d-48fb-a443-17d8cf1d2a37)
 
-1. # JSON : JavaScript Object Notation
-  - 
-2. # CSV : Comma Separated Values
-  - Implied in its name, CSV stores the data (values) in a list format separated by commas. CSV is noted for its small file size and simplicity. Likewise, because of its simplicity, CSV can be used by virtually anyone who is tasked with examining simple data in spreadsheets and tables.
-3. # XML : Extensible Markup Language
-  -
+1. *__JSON__*
+  - [x] JavaScript Object Notation
+    - 
+3. *__CSV__*
+  - [x] Comma Separated Values
+    - Implied in its name, CSV stores the data (values) in a list format separated by commas. CSV is noted for its small file size and simplicity. Likewise, because of its simplicity, CSV can be used by virtually anyone who is tasked with examining simple data in spreadsheets and tables.
+4. *__XML__*
+  - [x] Extensible Markup Language
+    -
