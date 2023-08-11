@@ -7,12 +7,12 @@
 # <img src="https://github.com/yasinnorozzadeh/python-course2/assets/88095232/c4397c04-cb2d-4f05-ba09-815287c76c4c" width="50" height="50"/> [***XML_important_commands***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2016/practice/food.py)
 ![Screenshot 2023-08-11 164307](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/77ef2221-211d-48fb-a443-17d8cf1d2a37)
 
-1. *__JSON__*
+## *__JSON__*
   - [x] JavaScript Object Notation
-    - 
-3. *__CSV__*
+    - [ ] JSON is known as a light-weight format type and is favored for its readability and nesting features. It is often used in conjunction with APIs and data configuration. More specifically, JSON is preferred for API use, which prioritizes file size due to its lightweight feature. JSON is also praised for its ability to be easily converted into other formats.
+## *__CSV__*
   - [x] Comma Separated Values
-    - Implied in its name, CSV stores the data (values) in a list format separated by commas. CSV is noted for its small file size and simplicity. Likewise, because of its simplicity, CSV can be used by virtually anyone who is tasked with examining simple data in spreadsheets and tables.
-4. *__XML__*
+    - [ ] Implied in its name, CSV stores the data (values) in a list format separated by commas. CSV is noted for its small file size and simplicity. Likewise, because of its simplicity, CSV can be used by virtually anyone who is tasked with examining simple data in spreadsheets and tables.
+## *__XML__*
   - [x] Extensible Markup Language
-    -
+    - [ ] a markup language and file format for storing, transmitting, and reconstructing arbitrary data. It defines a set of rules for encoding documents in a format that is both human-readable and machine-readable
