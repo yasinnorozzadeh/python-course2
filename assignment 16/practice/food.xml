@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+<food>
+    <item name="breakfast">Idly</item>
+    <price>$2.5</price>
+    <description>
+   Two idly's with chutney
+   </description>
+    <calories>553</calories>
+</food>
+<food>
+    <item name="breakfast">Paper Dosa</item>
+    <price>$2.7</price>
+    <description>
+    Plain paper dosa with chutney
+    </description>
+    <calories>700</calories>
+</food>
+<food>
+    <item name="breakfast">Upma</item>
+    <price>$3.65</price>
+    <description>
+    Rava upma with bajji
+    </description>
+    <calories>600</calories>
+</food>
+<food>
+    <item name="breakfast">Bisi Bele Bath</item>
+    <price>$4.50</price>
+    <description>
+   Bisi Bele Bath with sev
+    </description>
+    <calories>400</calories>
+</food>
+<food>
+    <item name="breakfast">Kesari Bath</item>
+    <price>$1.95</price>
+    <description>
+    Sweet rava with saffron
+    </description>
+    <calories>950</calories>
+</food>
+</metadata>
