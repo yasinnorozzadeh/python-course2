@@ -16,3 +16,5 @@
 ## *__XML__*
   - [x] Extensible Markup Language
     - [ ] a markup language and file format for storing, transmitting, and reconstructing arbitrary data. It defines a set of rules for encoding documents in a format that is both human-readable and machine-readable
+# ~~***difference between CSV, JSON and XML data***~~
+ - [x] ~~XML is a technology that you may use to connect systems and applications. CSV, on the other hand, may be used to store enormous amounts of data that must always be concatenated, such as log files, as well as for data streaming.Generally speaking, CSV should be chosen if the data is simple, flat, and tabular, and you are working with common software and languages. JSON should be chosen if the data is complex, nested, and object-oriented, and you are working with web applications and APIs.~~
