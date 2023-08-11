@@ -7,5 +7,5 @@
 # <img src="https://github.com/yasinnorozzadeh/python-course2/assets/88095232/c4397c04-cb2d-4f05-ba09-815287c76c4c" width="50" height="50"/> [***XML_important_commands***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2016/practice/food.py)
 ![Screenshot 2023-08-11 164307](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/77ef2221-211d-48fb-a443-17d8cf1d2a37)
 
-[X]- JSON : JavaScript Object Notation
-[X] JSON : JavaScript Object Notation
+- JSON : JavaScript Object Notation
+-[X] JSON : JavaScript Object Notation
