@@ -10,108 +10,137 @@ def design():
     design buttons
     """
     # numbers button from 0 to 9
-    main_window.btn_0.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
+    main_window.btn_0.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 0);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(85, 255, 255);
+                                    color: rgb(255, 0, 127);
+                                    background-color:white;''')
+    main_window.btn_1.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 0);};
+                                    font: 700 italic 14pt "Segoe UI";
                                     background-color: rgb(85, 255, 255);
                                     color: rgb(255, 0, 127);''')
-    main_window.btn_1.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
+    main_window.btn_2.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 0);};
+                                    font: 700 italic 14pt "Segoe UI";
                                     background-color: rgb(85, 255, 255);
                                     color: rgb(255, 0, 127);''')
-    main_window.btn_2.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                                background-color: rgb(85, 255, 255);
-                                color: rgb(255, 0, 127);''')
-    main_window.btn_3.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                                background-color: rgb(85, 255, 255);
-                                color: rgb(255, 0, 127);''')
-    main_window.btn_4.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                                background-color: rgb(85, 255, 255);
-                                color: rgb(255, 0, 127);''')
-    main_window.btn_5.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                                background-color: rgb(85, 255, 255);
-                                color: rgb(255, 0, 127);''')
-    main_window.btn_6.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                                background-color: rgb(85, 255, 255);
-                                color: rgb(255, 0, 127);''')
-    main_window.btn_7.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                                background-color: rgb(85, 255, 255);
-                                color: rgb(255, 0, 127);''')
-    main_window.btn_8.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                                background-color: rgb(85, 255, 255);
-                                color: rgb(255, 0, 127);''')
-    main_window.btn_9.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                                background-color: rgb(85, 255, 255);
-                                color: rgb(255, 0, 127);''')
+    main_window.btn_3.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 0);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(85, 255, 255);
+                                    color: rgb(255, 0, 127);''')
+    main_window.btn_4.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 0);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(85, 255, 255);
+                                    color: rgb(255, 0, 127);''')
+    main_window.btn_5.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 0);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(85, 255, 255);
+                                    color: rgb(255, 0, 127);''')
+    main_window.btn_6.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 0);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(85, 255, 255);
+                                    color: rgb(255, 0, 127);''')
+    main_window.btn_7.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 0);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(85, 255, 255);
+                                    color: rgb(255, 0, 127);''')
+    main_window.btn_8.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 0);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(85, 255, 255);
+                                    color: rgb(255, 0, 127);''')
+    main_window.btn_9.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 0);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(85, 255, 255);
+                                    color: rgb(255, 0, 127);''')
     # sub button
-    main_window.btn_sub.setStyleSheet('''font: 10000 italic 14pt "Segoe UI";
-                                background-color: rgb(102, 0, 102);
-                                color: rgb(50, 255, 255);''')
+    main_window.btn_sub.setStyleSheet('''QPushButton:hover {background-color:rgb(153, 51, 255);};
+                                    font: 10000 italic 14pt "Segoe UI";
+                                    background-color: rgb(102, 0, 102);
+                                    color: rgb(50, 255, 255);''')
     # sum button
-    main_window.btn_sum.setStyleSheet('''font: 900 italic 14pt "Segoe UI";
-                            background-color: rgb(102, 0, 102);
-                            color: rgb(50, 255, 255);''')
+    main_window.btn_sum.setStyleSheet('''QPushButton:hover {background-color:rgb(153, 51, 255);};
+                                    font: 900 italic 14pt "Segoe UI";
+                                    background-color: rgb(102, 0, 102);
+                                    color: rgb(50, 255, 255);''')
     # multiplication button
-    main_window.btn_mul.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                            background-color: rgb(102, 0, 102);
-                            color: rgb(50, 255, 255);''')
+    main_window.btn_mul.setStyleSheet('''QPushButton:hover {background-color:rgb(153, 51, 255);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(102, 0, 102);
+                                    color: rgb(50, 255, 255);''')
     # division button
-    main_window.btn_div.setStyleSheet('''font: 900 italic 14pt "Segoe UI";
-                            background-color: rgb(102, 0, 102);
-                            color: rgb(50, 255, 255);''')
+    main_window.btn_div.setStyleSheet('''QPushButton:hover {background-color:rgb(153, 51, 255);};
+                                    font: 900 italic 14pt "Segoe UI";
+                                    background-color: rgb(102, 0, 102);
+                                    color: rgb(50, 255, 255);''')
     # power button
-    main_window.btn_pow.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                            background-color: rgb(255, 255, 0);
-                            color: rgb(0, 0, 255);''')
+    main_window.btn_pow.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 255);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(255, 255, 0);
+                                    color: rgb(0, 0, 255);''')
     # sqrt button
-    main_window.btn_sqrt.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                            background-color: rgb(255, 255, 0);
-                            color: rgb(0, 0, 255);''')
+    main_window.btn_sqrt.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 255);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(255, 255, 0);
+                                    color: rgb(0, 0, 255);''')
     # cot button
-    main_window.btn_cot.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                            background-color: rgb(255, 255, 0);
-                            color: rgb(0, 0, 255);''')
+    main_window.btn_cot.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 255);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(255, 255, 0);
+                                    color: rgb(0, 0, 255);''')
     # log button
-    main_window.btn_log.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                            background-color: rgb(255, 255, 0);
-                            color: rgb(0, 0, 255);''')
+    main_window.btn_log.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 255);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(255, 255, 0);
+                                    color: rgb(0, 0, 255);''')
     # cos button
-    main_window.btn_cos.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                            background-color: rgb(255, 255, 0);
-                            color: rgb(0, 0, 255);''')
+    main_window.btn_cos.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 255);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(255, 255, 0);
+                                    color: rgb(0, 0, 255);''')
     # fuctorial button
-    main_window.btn_fuc.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                            background-color: rgb(255, 255, 0);
-                            color: rgb(0, 0, 255);''')
+    main_window.btn_fuc.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 255);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(255, 255, 0);
+                                    color: rgb(0, 0, 255);''')
     # sin button
-    main_window.btn_sin.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                            background-color: rgb(255, 255, 0);
-                            color: rgb(0, 0, 255);''')
+    main_window.btn_sin.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 255);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(255, 255, 0);
+                                    color: rgb(0, 0, 255);''')
     # pi button
-    main_window.btn_pi.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                            background-color: rgb(255, 255, 0);
-                            color: rgb(0, 0, 255);''')
+    main_window.btn_pi.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 255);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(255, 255, 0);
+                                    color: rgb(0, 0, 255);''')
     # tan button
-    main_window.btn_tan.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                            background-color: rgb(255, 255, 0);
-                            color: rgb(0, 0, 255);''')
+    main_window.btn_tan.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 255);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(255, 255, 0);
+                                    color: rgb(0, 0, 255);''')
     # dot button
-    main_window.btn_dot.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                            background-color: rgb(0, 0, 255);
-                            color: rgb(255, 255, 0);''')
+    main_window.btn_dot.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 255);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(0, 0, 255);
+                                    color: rgb(255, 255, 0);''')
     # abs button
-    main_window.btn_abs.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                            background-color: rgb(0, 0, 255);
-                            color: rgb(255, 255, 0);''')
+    main_window.btn_abs.setStyleSheet('''QPushButton:hover {background-color:rgb(0, 255, 255);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(0, 0, 255);
+                                    color: rgb(255, 255, 0);''')
     # ac button
-    main_window.btn_ac.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                            background-color: rgb(0, 102, 0);
-                            color: rgb(255, 128, 0);''')
+    main_window.btn_ac.setStyleSheet('''QPushButton:hover {background-color:rgb(153, 153, 0);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(0, 102, 0);
+                                    color: rgb(255, 128, 0);''')
     # # c button
-    main_window.btn_c.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                            background-color: rgb(0, 102, 0);
-                            color: rgb(255, 128, 0);''')
+    main_window.btn_c.setStyleSheet('''QPushButton:hover {background-color:rgb(153, 153, 0);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(0, 102, 0);
+                                    color: rgb(255, 128, 0);''')
     # equal button
-    main_window.btn_eq.setStyleSheet('''font: 700 italic 14pt "Segoe UI";
-                            background-color: rgb(255, 0, 127);
-                            color: rgb(0, 0, 0);''')
+    main_window.btn_eq.setStyleSheet('''QPushButton:hover {background-color:rgb(153, 153, 0);};
+                                    font: 700 italic 14pt "Segoe UI";
+                                    background-color: rgb(255, 0, 127);
+                                    color: rgb(0, 0, 0);''')
     main_window.setStyleSheet('''background-color: qconicalgradient(cx:0, cy:0, angle:14.8, stop:0 rgba(0, 255, 255, 255), stop:0.164773 rgba(0, 177, 255, 255), stop:0.329545 rgba(0, 86, 255, 255), stop:0.5 rgba(0, 0, 255, 255), stop:0.653409 rgba(0, 87, 255, 255), stop:0.835227 rgba(0, 180, 255, 255), stop:1 rgba(0, 255, 255, 255));''')
     # line Edit
     main_window.lineEdit.setStyleSheet('''background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(255, 0, 0, 255), stop:0.166 rgba(255, 255, 0, 255), stop:0.333 rgba(0, 255, 0, 255), stop:0.5 rgba(0, 255, 255, 255), stop:0.666 rgba(0, 0, 255, 255), stop:0.833 rgba(255, 0, 255, 255), stop:1 rgba(255, 0, 0, 255));''')
