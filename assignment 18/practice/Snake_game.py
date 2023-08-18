@@ -1,4 +1,5 @@
 import random
+import csv
 import arcade 
 SCREEN_WIDTH = 700
 SCREEN_HEIGHT = 700
@@ -66,8 +67,12 @@ class Snake(arcade.Sprite):
             self.center_x += 10 * self.change_x
             self.center_y += 10 * self.change_y
 
-    def game_over(self):
+    def game_over(self, save_score):
         arcade.draw_text('GAME OVER', SCREEN_WIDTH//2, SCREEN_HEIGHT//2, arcade.color.BLACK, 5 * 5, width=SCREEN_WIDTH, align='left')
+        if save_score:
+            with open("heigh_score.csv", "w") as file:
+                file.write(str(self.snake_score))
+            file.close()
         arcade.exit()
 
     def score_food(self, snake_food):
@@ -77,7 +82,7 @@ class Snake(arcade.Sprite):
             self.speed += 0.05
         elif snake_food == "pear":
             self.snake_score += 2
-            self.length += 3
+            self.length += 3    
             self.speed += 0.5
         elif snake_food == "poop":
             self.snake_score -= 1
@@ -95,12 +100,16 @@ class Game(arcade.Window):
         self.pear = Pear(SCREEN_WIDTH, SCREEN_HEIGHT)
         self.poop = Poop(SCREEN_WIDTH, SCREEN_HEIGHT)
         self.snake = Snake(SCREEN_WIDTH, SCREEN_HEIGHT)
-        self.heighest_score = 0
-        self.score = f"Score: {self.snake.snake_score}"
-        self.heigh_score = f"Heighest Score: {self.heighest_score}"
-    
+        
+            
     def on_draw(self):
         arcade.start_render()
+        self.score = f"Score: {self.snake.snake_score}"
+        with open("heigh_score.csv", "r") as file:
+            self.reader = csv.reader(file)
+            self.reader = next(self.reader)
+            self.reader = self.reader[0]
+        self.heigh_score = f"Heighest Score: {self.reader}"
         self.apple.draw()
         self.pear.draw()
         self.poop.draw()
@@ -125,9 +134,11 @@ class Game(arcade.Window):
             self.snake.score_food("poop")
             self.poop = Poop(SCREEN_WIDTH, SCREEN_HEIGHT)
         if self.snake.center_x <= 20 or self.snake.center_x >= SCREEN_WIDTH-20 or self.snake.center_y <= 20 or self.snake.center_y >= SCREEN_HEIGHT-20:
-            self.snake.game_over()
-            
-
+            if self.snake.snake_score > int(self.reader):
+                self.snake.game_over(True)
+            else:
+                self.snake.game_over(False)
+            # self.snake.game_over(True)
     def on_key_release(self, key, modifiers):
         if key == arcade.key.UP  or key == arcade.key.W:
             self.snake.change_x = 0
