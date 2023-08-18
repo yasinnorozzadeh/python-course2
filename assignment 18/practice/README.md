@@ -3,4 +3,4 @@
 # Emoji2
 ![Screenshot 2023-08-12 003303](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/43d79c49-2cc4-4c6b-a1bc-c4a7a15db742)
 # Snake Game
-![Screenshot 2023-08-16 220556](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/f64a4ac6-bd47-45c4-9f92-240494ec43fa)
+![Screenshot 2023-08-16 220556](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/b1b2708a-ca37-4301-bc24-afdb60e790a4)
