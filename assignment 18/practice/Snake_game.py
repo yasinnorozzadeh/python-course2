@@ -153,6 +153,5 @@ class Game(arcade.Window):
             self.snake.change_x = 1
             self.snake.change_y = 0
 
-
 Game()
 arcade.run()
