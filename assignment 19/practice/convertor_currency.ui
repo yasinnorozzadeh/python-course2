@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>392</width>
+    <height>164</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(0, 0, 0);</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="4" column="0">
+    <widget class="QLabel" name="label_3">
+     <property name="styleSheet">
+      <string notr="true">color:rgb(255, 0, 255);</string>
+     </property>
+     <property name="text">
+      <string>R : rial</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="7">
+    <widget class="QPushButton" name="btn_c">
+     <property name="styleSheet">
+      <string notr="true">background-color: rgb(178, 178, 178);
+color: rgb(255, 255, 255);</string>
+     </property>
+     <property name="text">
+      <string>convert</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="2" colspan="2">
+    <widget class="QRadioButton" name="rb_DP">
+     <property name="styleSheet">
+      <string notr="true">color: rgb(255, 255, 0);</string>
+     </property>
+     <property name="text">
+      <string>D to P</string>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="1" colspan="2">
+    <widget class="QLabel" name="label_4">
+     <property name="styleSheet">
+      <string notr="true">color:rgb(255, 0, 255);</string>
+     </property>
+     <property name="text">
+      <string>P : pound</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="4" colspan="2">
+    <widget class="QRadioButton" name="rb_FD">
+     <property name="styleSheet">
+      <string notr="true">color: rgb(255, 255, 0);</string>
+     </property>
+     <property name="text">
+      <string>F to D</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="0" colspan="2">
+    <widget class="QRadioButton" name="rb_PR">
+     <property name="styleSheet">
+      <string notr="true">color: rgb(255, 255, 0);</string>
+     </property>
+     <property name="text">
+      <string>P to R</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="2" colspan="2">
+    <widget class="QRadioButton" name="rb_RP">
+     <property name="styleSheet">
+      <string notr="true">color: rgb(255, 170, 0);</string>
+     </property>
+     <property name="text">
+      <string>R to P</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="6" colspan="2">
+    <widget class="QRadioButton" name="rb_PF">
+     <property name="styleSheet">
+      <string notr="true">color: rgb(255, 255, 0);</string>
+     </property>
+     <property name="text">
+      <string>P to F</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="2" colspan="2">
+    <widget class="QRadioButton" name="rb_FP">
+     <property name="styleSheet">
+      <string notr="true">color: rgb(255, 170, 0);</string>
+     </property>
+     <property name="text">
+      <string>F to P</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="6" colspan="2">
+    <widget class="QRadioButton" name="rb_RF">
+     <property name="styleSheet">
+      <string notr="true">color: rgb(255, 170, 0);</string>
+     </property>
+     <property name="text">
+      <string>R to F</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="4" colspan="2">
+    <widget class="QRadioButton" name="rb_PD">
+     <property name="styleSheet">
+      <string notr="true">color: rgb(255, 170, 0);</string>
+     </property>
+     <property name="text">
+      <string>P to D</string>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="5" colspan="2">
+    <widget class="QLabel" name="label_6">
+     <property name="styleSheet">
+      <string notr="true">color:rgb(255, 0, 255);</string>
+     </property>
+     <property name="text">
+      <string>F : frank</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="6" colspan="2">
+    <widget class="QRadioButton" name="rb_DF">
+     <property name="styleSheet">
+      <string notr="true">color: rgb(255, 170, 0);</string>
+     </property>
+     <property name="text">
+      <string>D to F</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="0" colspan="2">
+    <widget class="QRadioButton" name="rb_FR">
+     <property name="styleSheet">
+      <string notr="true">color: rgb(255, 255, 0);</string>
+     </property>
+     <property name="text">
+      <string>F to R</string>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="3" colspan="2">
+    <widget class="QLabel" name="label_5">
+     <property name="styleSheet">
+      <string notr="true">color:rgb(255, 0, 255);</string>
+     </property>
+     <property name="text">
+      <string>D : dollor</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="4" colspan="2">
+    <widget class="QRadioButton" name="rb_RD">
+     <property name="styleSheet">
+      <string notr="true">color: rgb(255, 255, 0);</string>
+     </property>
+     <property name="text">
+      <string>R to D</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="0" colspan="2">
+    <widget class="QRadioButton" name="rb_DR">
+     <property name="styleSheet">
+      <string notr="true">color: rgb(255, 170, 0);</string>
+     </property>
+     <property name="text">
+      <string>D to R</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="0" colspan="7">
+    <widget class="QLineEdit" name="line">
+     <property name="styleSheet">
+      <string notr="true">color: rgb(85, 255, 255);
+background-color: rgb(0, 0, 127);</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

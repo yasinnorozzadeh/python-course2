@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>299</width>
+    <height>135</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(0, 0, 0);</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="4">
+    <widget class="QPushButton" name="btn_c">
+     <property name="styleSheet">
+      <string notr="true">background-color: rgb(178, 178, 178);
+color: rgb(255, 255, 255);</string>
+     </property>
+     <property name="text">
+      <string>convert</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="0" colspan="4">
+    <widget class="QLineEdit" name="line">
+     <property name="styleSheet">
+      <string notr="true">color: rgb(85, 255, 255);
+background-color: rgb(0, 0, 127);</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="0">
+    <widget class="QRadioButton" name="rb_CK">
+     <property name="enabled">
+      <bool>true</bool>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">color: rgb(255, 255, 0);</string>
+     </property>
+     <property name="text">
+      <string>C to K</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="0">
+    <widget class="QRadioButton" name="rb_FK">
+     <property name="styleSheet">
+      <string notr="true">color: rgb(255, 170, 0);</string>
+     </property>
+     <property name="text">
+      <string>F to K</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="2">
+    <widget class="QRadioButton" name="rb_CF">
+     <property name="styleSheet">
+      <string notr="true">color: rgb(255, 255, 0);</string>
+     </property>
+     <property name="text">
+      <string>C to F</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="2">
+    <widget class="QRadioButton" name="rb_KF">
+     <property name="styleSheet">
+      <string notr="true">color: rgb(255, 170, 0);</string>
+     </property>
+     <property name="text">
+      <string>K to F</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="0">
+    <widget class="QLabel" name="label_3">
+     <property name="styleSheet">
+      <string notr="true">color:rgb(255, 0, 255);</string>
+     </property>
+     <property name="text">
+      <string>k  : Kelvin</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="2">
+    <widget class="QLabel" name="label_5">
+     <property name="styleSheet">
+      <string notr="true">color:rgb(255, 0, 255);</string>
+     </property>
+     <property name="text">
+      <string>F : Fahrenheit</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="3">
+    <widget class="QRadioButton" name="rb_KC">
+     <property name="styleSheet">
+      <string notr="true">color: rgb(255, 255, 0);</string>
+     </property>
+     <property name="text">
+      <string>k to C</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="3">
+    <widget class="QRadioButton" name="rb_FC">
+     <property name="styleSheet">
+      <string notr="true">color: rgb(255, 170, 0);</string>
+     </property>
+     <property name="text">
+      <string>F to C</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="3">
+    <widget class="QLabel" name="label_4">
+     <property name="styleSheet">
+      <string notr="true">color:rgb(255, 0, 255);</string>
+     </property>
+     <property name="text">
+      <string>C : Celsius</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
