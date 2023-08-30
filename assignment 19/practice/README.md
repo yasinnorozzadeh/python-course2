@@ -4,3 +4,6 @@
 ![Screenshot 2023-08-25 201817](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/0cb73b0b-f88e-48a4-8a9f-627365c4741a)
 # [***convertor***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2019/practice/convertor.py)
 ![Screenshot 2023-08-28 221805](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/72bdb2dd-b39c-4326-a7a0-4aa8e9240367)
+# [***hangman***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2019/practice/hangman_main.py)
+![Screenshot 2023-08-30 192853](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/9fe10c66-093c-4300-9e72-9ae5f8af4e4c)
+![Screenshot 2023-08-30 192828](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/f0b9cd6a-0f35-468a-b8ed-18cef497d4a9)
