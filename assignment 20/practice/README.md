@@ -7,3 +7,7 @@
 ![Screenshot 2023-09-04 215441](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/34c97d75-dfc7-4038-a7d4-365fd7738580)
 ![Screenshot 2023-09-04 212822](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/b7112121-6148-4f13-bdee-249431740298)
 ![Screenshot 2023-09-04 212718](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/9a8a7f30-db99-4f37-ae07-228ed563bbc8)
+# todo list
+![Uploading Screenshot 2023-09-05 190245.png…]()
+![Screenshot 2023-09-05 190221](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/142f6b2a-9cfc-449f-a803-691314b9cce4)
+![Screenshot 2023-09-05 190127](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/1ecdd9c2-0e1a-41bf-bdf0-1362ae9c52e4)
