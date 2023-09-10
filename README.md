@@ -119,10 +119,85 @@
 ![Screenshot 2023-07-17 194626](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/0ccaafff-d36a-4b03-b63e-6fcd3953a91f)
 
 ## Assignment 11
+![arrow-right-6-24 (3)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/e357ca82-002e-46d8-bfd4-646e54d65aa9) [*_LCM_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2011/practice/lcm.py)
+===
+![Screenshot from 2023-07-20 00-49-54](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/bb629bb4-373e-4671-8512-ee7b44a4e8ea)
+
+![arrow-right-6-24 (2)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/9efbc97d-0d70-43b3-8de5-b8096315b6c7) [*_gcd_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2011/practice/gcd.py)
+===
+![Screenshot from 2023-07-20 00-52-18](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/457ace00-b047-4cee-b4dc-988f1ea10de9)
+
+![arrow-right-6-24](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/af6a763e-ed7b-4df7-9af0-7d3d68b09a98) [*_isprime function_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2011/practice/isprime%20function.py)
+================
+![Screenshot from 2023-07-20 00-50-12](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/4332d73d-21e5-46d8-ba54-e03647833ef1)
+
+![arrow-right-6-24 (4)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/d3de4d13-17ae-49a8-8c98-c3801f0f83c8) [*_equation of the 2nd degree_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2011/practice/equation%20of%20the%202nd%20degree.py)
+==========================
+![Screenshot from 2023-07-20 00-52-46](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/f9f4ac4c-c7cf-40d2-af7a-d1170a552c60)
+
+![arrow-right-6-24 (6)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/d7ed275f-8820-4296-bb0f-9f8abfa472aa) [*_guess number functional_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2011/practice/guess_number_functional.py)
+=======================
+![Screenshot from 2023-07-20 00-51-39](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/83e0468c-534c-4cc0-81b6-b95ee5898882)
+
+![arrow-right-6-24 (5)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/b2a216de-ebca-4c07-a98c-a12d0ceb93f6) [*_Rock paper scissors functional_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2011/practice/Rock_paper_scissors_functional.py)
+==============================
+![Screenshot from 2023-07-20 00-49-19](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/b98d43bb-8793-4f0e-b3c8-55113e9feb87)
+
+![arrow-right-6-24 (7)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/f7423e5f-6c5f-4cb2-937a-30f46359eeba) [*_hangman functional_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2011/practice/hangman_functional.py)
+==================
+![Screenshot from 2023-07-20 00-51-08](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/a3bd9031-6d66-4216-9952-7acbd9123db8)
+
+*_recursive functions_*
+===================
+![arrow-right-6-24 (8)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/718239c5-f44c-4d5e-8afa-7cc046456b15) [*_fibonacci_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2011/practice/fibo.py)
+---------
+![Screenshot from 2023-07-20 01-06-05](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/867afd84-4adf-4abe-9438-033d2452a627)
+
+![arrow-right-6-24 (9)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/fe8adffa-8f7d-4604-b886-1f59a1cabc2d)
+[*_factorial_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2011/practice/fact.py)
+---------
+![Screenshot from 2023-07-20 01-07-54](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/7b6af0e2-7146-42ab-9083-94ee14f08e8b)
+
+![arrow-right-6-24 (10)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/b106cf21-da87-4d13-8d7c-b3f04f38e522) [*_GCD_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2011/practice/GCD.py)
+---
+![Screenshot from 2023-07-20 01-42-59](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/60739d31-7344-4133-8007-39cf79fc5315)
+
 
 ## Assignment 12
 
+### ![arrow-22-24 (5)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/70555d85-44bf-4a2f-b336-6deca52a9a7c) [*_Diamond_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/diamond.py)
+![Screenshot 2023-07-22 203858](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/8e094df8-34c9-4018-bc52-33e91776b07e)
+***
+### ![arrow-22-24 (4)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/98e28c44-4c6e-415a-93b3-dcaaf9db2730) [_Multiplication Table_](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/Multiplication%20table.py)
+![multable](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/9918ee6c-8d13-45d7-ab2f-d497eba956e1)
+***
+### ![arrow-22-24 (3)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/722e0436-ef00-4bb0-ac38-4e0820a744f7) [*_Letter recognition_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/Letter%20recognition.py)
+![leter](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/4b315a08-0cd9-4c2c-9cf3-d89484406ca2)
+***
+### ![arrow-22-24 (2)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/c45a58b7-91ee-46b1-bff2-b84eb746ea51) [*Show date*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/show_date.py)
+![date](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/96558c19-6a52-4b08-a5e7-8e9614af15a7)
+***
+### ![arrow-22-24](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/71c3cf3d-f7c5-487d-9fcb-52aec96f88bc) [*_Vowels_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/Vowels.py)
+![vowel](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/528e148e-e87e-4831-91b4-757cb9014fb7)
+***
+### ![arrow-22-24 (1)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/f3ec4d59-dc38-4a6b-b6e5-02e66b437ef5) [_Tic Tac Toe_](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/tic_tac_toe.py)
+![ox](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/afd03727-7938-4c48-af23-5b728f5d58d9)
+***
+### ![arrow-22-24 (6)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/ca77a836-70a1-4f14-9c2f-e7c0d2efc61d) [*number*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/number.py)
+![Screenshot 2023-08-01 163054](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/570fc26e-e6de-4138-ab9f-90014efeb106)
+
 ## Assignment 13
+### ![star-15-24 (4)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/ae09db2d-6636-492f-ae99-3c4d3e2ed0ee) [***diamond***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2013/practice/diamond.py)
+![Screenshot 2023-07-24 205635](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/61fc4bc2-e39a-40a0-a084-7f2e931a33e6)
+### ![star-15-24 (1)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/cb31ae71-d0bf-4e24-bb14-de8c231e14b3) [***cinema movie***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2013/practice/cinema%20movie.py)
+![Screenshot 2023-07-25 055831](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/862f2141-f899-4fa7-81b3-d26ffa92b8b7)
+### ![star-15-24 (2)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/e4bd5300-9d29-4d3a-95d2-955987354dca) [***time***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2013/practice/time.py)
+![Screenshot 2023-07-24 150710](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/8255bbcf-193e-432f-a7dd-2287c8ee55ac)
+![Screenshot 2023-08-01 163054](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/d115ab70-24f5-420d-87ff-e1ad1dfbc483)
+### ![star-15-24 (3)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/3cf70392-a2ec-42cf-afc5-568007205797) [***deduction***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2013/practice/deductions.py)
+![Screenshot 2023-07-25 055831](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/a037bdb4-01ed-4235-902a-dc48be3db211)
+### ![star-15-24](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/6c9b565b-0562-4509-a345-b01fbf360992) [***complex numbers***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2013/practice/complex%20numbers.py)
+![Screenshot 2023-07-25 055831](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/62b877ef-4ed0-4266-b147-5b4dd3e5b6e6)
 
 ## Assignment 14
 ### **OOP**
