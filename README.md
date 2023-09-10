@@ -104,10 +104,36 @@
 ## Assignment 16
 
 ## Assignment 17
+### ![arrow-33-24 (3)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/2fac8ee3-0bc1-40df-b22f-b5ccb6ba0087) [UPDATE cinema movie](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2017/practice/cinema%20movie.py)
+![Screenshot 2023-08-05 144008](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/8f8d7c95-7852-4531-80fa-46066e240c3b)
+### ![arrow-33-24](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/a1c6b0ec-262e-4eaf-b6f3-2bf0a1b86765) [UPDATE cars dataset](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2017/practice/cars.py)
+![Screenshot 2023-08-05 144008](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/8b97e30d-e5f1-46b1-b318-7dfe57b72181)
+### ![arrow-33-24 (1)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/1a1488f4-0dcb-47db-9406-52c4c0d6dd1a) [Laptops_&_Phones](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2017/practice/Mobile%20and%20laptop.py)
+![Screenshot 2023-08-11 164307](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/e325a654-01eb-4ded-8a6d-3a8be7c27d0c)
 
 ## Assignment 18
+### ![arrow-right-3-24 (1)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/ba723b5d-98ca-429b-a68a-b63f3efec49a) [***Emoji1***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2018/practice/imoji_picture1.py)
+![Screenshot 2023-08-09 123937](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/80378bfa-acbf-4924-a5fc-b47d6dfd84ea)
+### ![arrow-right-3-24 (2)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/bec1012e-b9f2-434c-9b38-1db85ee4d1be) [***Emoji2***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2018/practice/imoji_picture2.py)
+![Screenshot 2023-08-12 003303](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/43d79c49-2cc4-4c6b-a1bc-c4a7a15db742)
+### ![arrow-right-3-24 (3)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/1d184036-3b9c-488a-86e2-2a79a2e88f6e) [***Snake Game***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2018/practice/Snake_game.py)
+![Screenshot 2023-08-16 220556](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/b1b2708a-ca37-4301-bc24-afdb60e790a4)
+### ![arrow-right-3-24](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/0556a094-91b6-41a1-a09e-32e0bbf47adc) [***air hockey game***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2018/practice/airhockey.py)
+![Screenshot 2023-08-21 170655](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/b58975c2-6716-40f8-aee1-6177d26ed5d6)
+### ![arrow-right-3-24 (4)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/21172746-6cee-44d5-90fd-07fa946a8440) [***2d space shooter***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2018/practice/2d_space_shooter.py)
+![Screenshot 2023-08-25 142712](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/c56e334a-bd67-457b-9be5-107c3d32d62f)
+![Screenshot 2023-08-25 142634](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/b4475fec-25d4-4f29-8a4b-57f7f49c8be2)
 
 ## Assignment 19
+### ![fast-forward-2-24 (3)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/70d35a2f-52c3-4291-aaaa-c63efd50f0d0) [***calculator***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2019/practice/calculator.py)
+![Screenshot 2023-08-11 164307](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/0889bd98-4901-4188-a2f8-019cd08fd5e0)
+### ![fast-forward-2-24](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/713af406-bd4e-4b43-9a03-6056eb2f3b5e) [***Tic Tac Toe***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2019/practice/TicTacToe.ui)
+![Screenshot 2023-08-25 201817](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/0cb73b0b-f88e-48a4-8a9f-627365c4741a)
+### ![fast-forward-2-24 (6)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/a39f19ea-a4f1-4749-b52b-64b04b67674d) [***convertor***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2019/practice/convertor.py)
+![Screenshot 2023-08-28 221805](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/72bdb2dd-b39c-4326-a7a0-4aa8e9240367)
+### ![fast-forward-2-24 (1)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/9739591f-0e3d-4355-a971-c37289bb9d7e) [***hangman***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2019/practice/hangman_main.py)
+![Screenshot 2023-08-30 192853](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/9fe10c66-093c-4300-9e72-9ae5f8af4e4c)
+![Screenshot 2023-08-30 192828](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/f0b9cd6a-0f35-468a-b8ed-18cef497d4a9)
 
 ## Assignment 20
 ### ![arrow-right-24](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/355b6aae-abcf-4302-9503-d7d502a9815b) [***Guess Color Game***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2020/practice/guess_color_main.py)
