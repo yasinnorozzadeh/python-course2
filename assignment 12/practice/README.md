@@ -15,8 +15,7 @@
 ## ![arrow-22-24](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/71c3cf3d-f7c5-487d-9fcb-52aec96f88bc) [*_Vowels_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/Vowels.py)
 ![vowel](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/528e148e-e87e-4831-91b4-757cb9014fb7)
 ***
-## ![arrow-22-24 (1)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/f3ec4d59-dc38-4a6b-b6e5-02e66b437ef5)
-[_Tic Tac Toe_](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/tic_tac_toe.py)
+## ![arrow-22-24 (1)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/f3ec4d59-dc38-4a6b-b6e5-02e66b437ef5) [_Tic Tac Toe_](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/tic_tac_toe.py)
 ![ox](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/afd03727-7938-4c48-af23-5b728f5d58d9)
 ***
 ## ![arrow-22-24 (6)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/ca77a836-70a1-4f14-9c2f-e7c0d2efc61d) [*number*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2012/practice/number.py)
