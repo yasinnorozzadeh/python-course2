@@ -98,10 +98,42 @@
 ## Assignment 13
 
 ## Assignment 14
+### **OOP**
+#### ![arrow-52-24](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/631ee88d-23b7-4765-a22f-e149e9c55e10) [*_Time_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2014/practice/Time.py)
+![Screenshot 2023-07-24 150710](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/98db878c-bf4b-4470-a782-fdd578936b14)
+![Screenshot 2023-08-01 163054](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/4f5ff696-1628-4deb-9d69-ee8194eb0d25)
+#### ![arrow-52-24 (1)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/84b953af-d467-4a57-80f9-24f81de2af7c) [*_Deductions_*](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2014/practice/Deduction.py)
+![Screenshot 2023-07-25 055831](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/0cde2dc2-bc28-43dd-8640-28820ef69bb8)
 
 ## Assignment 15
+### ![star-6-24 (2)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/8352ca18-b835-4f35-96ae-32a355bd03d9) [circle_sphere_class](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2015/practice/circle%20and%20sphere.py)
+![Screenshot 2023-08-04 173845](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/e046b0a8-38bb-4bff-b7e8-214751a3b68f)
+### ![star-6-24 (4)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/d5715943-7348-4050-be18-bfd0e0fe6f2a) [GIF](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2015/practice/gif.py)
+![2](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/ab3507ff-7195-4088-a700-3f0303ed63bb)
+### ![star-6-24 (1)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/494c6849-9a92-48d3-adc1-fd2db0e3c29e) [Pyramid_square_triangle_class](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2015/practice/Pyramid_square_triangle.py)
+![Screenshot ](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/4f11e5c7-5914-4a1e-8ad1-c2192bf46bb6)
+### ![star-6-24 (6)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/e82d20f2-2264-411a-a36a-74d69575b947) [os_library_methods](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2015/practice/os_methods.py)
+### ![star-6-24 (3)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/9e1fd4ea-aefb-44be-89a8-f31f9a83d4d6) [privet_error](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2015/practice/privet_error.py)
+![Screenshot 2023-08-04 173845](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/4d95a8f9-f681-44f7-919d-87a06897f50d)
 
 ## Assignment 16
+#### *__JSON__*
+  - [x] JavaScript Object Notation
+    - [ ] JSON is known as a light-weight format type and is favored for its readability and nesting features. It is often used in conjunction with APIs and data configuration. More specifically, JSON is preferred for API use, which prioritizes file size due to its lightweight feature. JSON is also praised for its ability to be easily converted into other formats.
+#### *__CSV__*
+  - [x] Comma Separated Values
+    - [ ] Implied in its name, CSV stores the data (values) in a list format separated by commas. CSV is noted for its small file size and simplicity. Likewise, because of its simplicity, CSV can be used by virtually anyone who is tasked with examining simple data in spreadsheets and tables.
+#### *__XML__*
+  - [x] Extensible Markup Language
+    - [ ] a markup language and file format for storing, transmitting, and reconstructing arbitrary data. It defines a set of rules for encoding documents in a format that is both human-readable and machine-readable
+### <img src="https://github.com/yasinnorozzadeh/python-course2/assets/88095232/1b674bff-b018-42ca-820a-b87624bf7bb8" width="50" height="50"/> [***Work with cars data***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2016/practice/cars.py)
+![Screenshot 2023-08-05 144008](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/fa4fdb1e-d771-426c-8eda-d9e5fe4dfc69)
+### <img src="https://github.com/yasinnorozzadeh/python-course2/assets/88095232/fe073fa1-d68b-4988-836b-4a2086736e25" width="50" height="50"/> [***play longest string***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2016/practice/sentence.py)
+![Screenshot 2023-08-05 144008](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/9abdff97-e436-4a33-880a-526e226b2f97)
+### <img src="https://github.com/yasinnorozzadeh/python-course2/assets/88095232/c4397c04-cb2d-4f05-ba09-815287c76c4c" width="50" height="50"/> [***XML_important_commands***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2016/practice/food.py)
+![Screenshot 2023-08-11 164307](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/77ef2221-211d-48fb-a443-17d8cf1d2a37)
+### ~~***difference between CSV, JSON and XML data***~~
+ - [x] XML is a technology that you may use to connect systems and applications. CSV, on the other hand, may be used to store enormous amounts of data that must always be concatenated, such as log files, as well as for data streaming.Generally speaking, CSV should be chosen if the data is simple, flat, and tabular, and you are working with common software and languages. JSON should be chosen if the data is complex, nested, and object-oriented, and you are working with web applications and APIs.
 
 ## Assignment 17
 ### ![arrow-33-24 (3)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/2fac8ee3-0bc1-40df-b22f-b5ccb6ba0087) [UPDATE cinema movie](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2017/practice/cinema%20movie.py)
