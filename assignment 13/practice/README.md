@@ -1,11 +1,11 @@
-# diamond
+# ![star-15-24 (4)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/ae09db2d-6636-492f-ae99-3c4d3e2ed0ee) [***diamond***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2013/practice/diamond.py)
 ![Screenshot 2023-07-24 205635](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/61fc4bc2-e39a-40a0-a084-7f2e931a33e6)
-# cinema movie
+# ![star-15-24 (1)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/cb31ae71-d0bf-4e24-bb14-de8c231e14b3) [***cinema movie***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2013/practice/cinema%20movie.py)
 ![Screenshot 2023-07-25 055831](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/862f2141-f899-4fa7-81b3-d26ffa92b8b7)
-# time
+# ![star-15-24 (2)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/e4bd5300-9d29-4d3a-95d2-955987354dca) [***time***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2013/practice/time.py)
 ![Screenshot 2023-07-24 150710](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/8255bbcf-193e-432f-a7dd-2287c8ee55ac)
 ![Screenshot 2023-08-01 163054](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/d115ab70-24f5-420d-87ff-e1ad1dfbc483)
-# deduction
+# ![star-15-24 (3)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/3cf70392-a2ec-42cf-afc5-568007205797) [***deduction***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2013/practice/deductions.py)
 ![Screenshot 2023-07-25 055831](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/a037bdb4-01ed-4235-902a-dc48be3db211)
-# complex numbers
+# ![star-15-24](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/6c9b565b-0562-4509-a345-b01fbf360992) [***complex numbers***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2013/practice/complex%20numbers.py)
 ![Screenshot 2023-07-25 055831](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/62b877ef-4ed0-4266-b147-5b4dd3e5b6e6)
