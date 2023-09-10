@@ -1,18 +1,13 @@
-# Hangman
+# ![arrow-right-5-24 (5)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/3bfcd88c-2fdc-4d68-86f7-79a00960ff3a) [***Hangman***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2010/practice/hangman.py)
 ![Screenshot 2023-07-12 081142](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/f1d28ee6-bf2a-4374-bddf-d4b82f29084f)
-
 # turtle_library
-## project_1
+## ![arrow-right-5-24 (4)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/bc6fd07e-3240-4d13-81c2-031b2d2f203c) [***project 1***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2010/practice/turtle_project1.py)
 ![Screenshot 2023-07-17 173853](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/bb7653e1-ad58-47c3-ada2-7b5b6019ad7f)
-
-## project_2
+## ![arrow-right-5-24 (3)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/c6836ab9-b881-48b5-b6da-3bef297a1cf2) [***project 2***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2010/practice/turtle_project2.py)
 ![Screenshot 2023-07-17 181212](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/588469de-56b3-42f8-9d17-26f06185e555)
-
-# Unacceptable names
+# ![arrow-right-5-24 (2)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/0ab9a3d7-b406-4903-87b4-ca8b2cbbba8a) [***Unacceptable names***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2010/practice/Unacceptable%20names.py)
 ![Screenshot 2023-07-17 201522](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/0678de52-3ea0-444a-b7a9-f979235dca2e)
-
-# Show longevity
+# ![arrow-right-5-24 (1)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/a0125699-07d5-489e-9146-006015f84ece) [***Show longevity***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2010/practice/Show%20longevity.py)
 ![Screenshot 2023-07-17 194521](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/ffaf9950-0548-46ac-9a43-28edabbdaa4a)
-
-# converted  list to dict
+# ![arrow-right-5-24](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/54ade14a-4ed1-4747-a6da-b298e30beec3) [***converted  list to dict***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2010/practice/converted%20%20list%20to%20dict.py)
 ![Screenshot 2023-07-17 194626](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/0ccaafff-d36a-4b03-b63e-6fcd3953a91f)
