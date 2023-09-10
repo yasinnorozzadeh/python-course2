@@ -110,3 +110,17 @@
 ## Assignment 19
 
 ## Assignment 20
+### ![arrow-right-24](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/355b6aae-abcf-4302-9503-d7d502a9815b) [***Guess Color Game***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2020/practice/guess_color_main.py)
+![Screenshot 2023-09-01 125755](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/1d7fe6ed-71b0-4f6a-954e-fa1bbd5a5415)
+![Screenshot 2023-09-01 125739](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/7e2e1c33-e227-42ba-ab37-a839e2d9737f)
+![Screenshot 2023-09-01 125717](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/e8c21a6e-27c1-4bb2-9a6c-b7deb09a2232)
+### ![arrow-right-24 (3)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/b8eb50e4-82f3-4624-8660-475d09c535e6) [***2048 Game***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2020/practice/2048_game.py)
+![Screenshot 2023-09-04 215515](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/0b345d66-4eee-4ce9-afed-c87d4b19a868)
+![Screenshot 2023-09-04 215441](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/34c97d75-dfc7-4038-a7d4-365fd7738580)
+![Screenshot 2023-09-04 212822](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/b7112121-6148-4f13-bdee-249431740298)
+![Screenshot 2023-09-04 212718](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/9a8a7f30-db99-4f37-ae07-228ed563bbc8)
+### ![arrow-right-24 (2)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/cb757539-8f2b-4acc-8a1d-3d6bfb18c1af) [***todo list***](https://github.com/yasinnorozzadeh/python-course2/tree/main/assignment%2020/practice/todolist)
+![Screenshot 2023-09-05 190307](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/7be6934f-4e33-448a-be9f-fe62872006a5)
+![Screenshot 2023-09-05 190245](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/3e600b0a-1de3-4fe9-93ee-2519a22dbb3a)
+![Screenshot 2023-09-05 190221](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/142f6b2a-9cfc-449f-a803-691314b9cce4)
+![Screenshot 2023-09-05 190127](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/1ecdd9c2-0e1a-41bf-bdf0-1362ae9c52e4)
