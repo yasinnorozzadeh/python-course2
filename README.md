@@ -9,7 +9,7 @@
 ### ![plus-8-24 (1)](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/b927e344-2975-44e8-af0c-480738cb7dab) [**printing hello world**](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2002/practice/priting%20hello%20world/hello%20world.py)
 ![Screenshot 2023-09-10 123811](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/985e8410-5444-485e-a370-f7c6335979ac)
 ### ![plus-8-24](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/cf4ed642-8774-4406-85ab-ad9ca9e1f7e2) [***add and subtract numbers***](https://github.com/yasinnorozzadeh/python-course2/blob/main/assignment%2002/practice/add%20and%20subtract/operation.py) ![Screenshot 2023-09-08 171713](https://github.com/yasinnorozzadeh/python-course2/assets/88095232/ecc4ea9f-5a86-47a6-af5c-67ed2008ca36) 
-===
+---
 ## Assignment 03
 
 ## Assignment 04
